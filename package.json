@@ -1,19 +1,19 @@
 {
   "contributors": [
     {
-      "name": "Dexter Hardy",
-      "email": "dexter.hardy@ntegral.com",
-      "url": "http://www.ntegral.com"
+      "name": "Akash Gupta",
+      "email": "akash@adias.tech",
+      "url": "http://www.adias.tech"
     }
   ],
-  "name": "@ntegral/nestjs-sentry",
+  "name": "nestjs-sentry",
   "version": "1.0.2",
-  "description": "Provides an injectable sentry.io client to provide enterprise logging nestjs modules",
+  "description": "Provides an sentry.io client to provide enterprise logging nestjs modules",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntegral/nestjs-sentry"
+    "url": "git+https://github.com/techaks/nestjs-sentry"
   },
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
